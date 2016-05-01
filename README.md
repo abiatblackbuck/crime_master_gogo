@@ -1,7 +1,7 @@
 # crime_master_gogo
 A framework to execute tasks (crimes) in parallel. 
 
-Written in Java. 
+Written in Java. Maven build.
 
 Http Conn Pooling and Thread Pooling. 
 
